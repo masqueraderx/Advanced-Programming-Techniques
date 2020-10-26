@@ -8,3 +8,5 @@ class’s functionality. For details see Lab2.pdf.
 
 In order to run it, please input input1.txt input2.txt. And it will generate an output.txt file. It mainly
 implement the operations between 2 Grid.
+
+Use **g++ main.cpp MyGrid.cpp** to compile.
