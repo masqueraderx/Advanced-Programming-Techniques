@@ -6,4 +6,4 @@ This is a Georgia Institute of Technology ECE6122 homework. It mainly uses C++ t
 4. OpenGL
 5. Sockets
 
-The environment I used is MAC OS and the plantform is Clion. If it needs some special attention to compile on Liunx System, I will mark it in each folder.
+The environment I used is MAC OS and the plantform is Clion. If it needs some special attention to compile on Linux System, I will mark it in each folder.
