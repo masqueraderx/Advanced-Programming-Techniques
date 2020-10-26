@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/gexueren/Desktop/6122/HW/Lab4/ECE_Ghost.h
+GLUT/glut.h
+-
+
+/Users/gexueren/Desktop/6122/HW/Lab4/ECE_Pacman.h
+GLUT/glut.h
+-
+
+/Users/gexueren/Desktop/6122/HW/Lab4/main.cpp
+GLUT/glut.h
+-
+math.h
+-
+stdlib.h
+-
+ECE_Ghost.h
+/Users/gexueren/Desktop/6122/HW/Lab4/ECE_Ghost.h
+ECE_Pacman.h
+/Users/gexueren/Desktop/6122/HW/Lab4/ECE_Pacman.h
+vector
+-
+
