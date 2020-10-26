@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="Problem2" targetName="Problem2" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="83ca9e41-ffce-4088-b4b9-6a15a773ebbf" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="ProjectId" id="1gwYn0WSeOgzqeBQpZPCVvCkffH" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="cf.first.check.clang-format" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.cidr.embedded.config" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Problem2" type="CMakeRunConfiguration" factoryName="Application" PROGRAM_PARAMS="0" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Problem2" TARGET_NAME="Problem2" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Problem2" RUN_TARGET_NAME="Problem2">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="WindowStateProjectService">
+    <state x="184" y="96" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1599464187876">
+      <screen x="0" y="23" width="1440" height="822" />
+    </state>
+    <state x="184" y="96" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.822@0.23.1440.822" timestamp="1599464187876" />
+    <state width="1398" height="208" key="GridCell.Tab.0.bottom" timestamp="1599464350806">
+      <screen x="0" y="23" width="1440" height="823" />
+    </state>
+    <state width="1398" height="208" key="GridCell.Tab.0.bottom/0.23.1440.822@0.23.1440.822" timestamp="1599464189907" />
+    <state width="1398" height="208" key="GridCell.Tab.0.bottom/0.23.1440.823@0.23.1440.823" timestamp="1599464350806" />
+    <state width="1398" height="208" key="GridCell.Tab.0.center" timestamp="1599464350806">
+      <screen x="0" y="23" width="1440" height="823" />
+    </state>
+    <state width="1398" height="208" key="GridCell.Tab.0.center/0.23.1440.822@0.23.1440.822" timestamp="1599464189906" />
+    <state width="1398" height="208" key="GridCell.Tab.0.center/0.23.1440.823@0.23.1440.823" timestamp="1599464350806" />
+    <state width="1398" height="208" key="GridCell.Tab.0.left" timestamp="1599464350806">
+      <screen x="0" y="23" width="1440" height="823" />
+    </state>
+    <state width="1398" height="208" key="GridCell.Tab.0.left/0.23.1440.822@0.23.1440.822" timestamp="1599464189906" />
+    <state width="1398" height="208" key="GridCell.Tab.0.left/0.23.1440.823@0.23.1440.823" timestamp="1599464350806" />
+    <state width="1398" height="208" key="GridCell.Tab.0.right" timestamp="1599464350806">
+      <screen x="0" y="23" width="1440" height="823" />
+    </state>
+    <state width="1398" height="208" key="GridCell.Tab.0.right/0.23.1440.822@0.23.1440.822" timestamp="1599464189907" />
+    <state width="1398" height="208" key="GridCell.Tab.0.right/0.23.1440.823@0.23.1440.823" timestamp="1599464350806" />
+  </component>
+</project>
