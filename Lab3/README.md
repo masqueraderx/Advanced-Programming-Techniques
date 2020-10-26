@@ -12,10 +12,12 @@ and 3 by 3 box contains each of the digits 1 to 9. Below is an example of a typi
 grid and its solution grid. For more details, see https://www.projecteuler.net.
   In order to run it, input **input_sudoku.txt** when running. It will output **Lab3Prob1.txt**, It includes
 the answer 50 Su Doku games. 
+  Use **g++ SuDoku.cpp Lab3Prob1.cpp -lpthread** to compile.
 
 ## Problem 2: Another ant on the move problem
   See details (https://brilliant.org/practice/monte-carlo/), using command line arguments like shown below
   **./a.out -N 100000 -g 6**, it will output Lab3Prob2.txt. If you are interested in Monte Carlo, see Monte Carlo Simulation.pdf.
+  Use **g++ Lab3Prob2.cpp -fopenmp** to compile.
   
 ## Problem 3: Using Monte Carlo to solve optimization problem
-  This will output **Lab3Prob3.txt**
+  This will output **Lab3Prob3.txt**, use **g++ Lab3Prob3.cpp -fopenmp** to compile.
