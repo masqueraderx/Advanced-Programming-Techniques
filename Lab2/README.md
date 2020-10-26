@@ -1,3 +1,4 @@
+# Lab2 MyGrid Class
 Complete a class called MyGrid that has a member variable gridElements that is a dynamic two-dimensional 
 array of elements (type long) of m rows by n columns. The class also contains two long variables called 
 myX and myY which indicates the upper left-hand location of element (0,0) of the grid. Your class needs to 
