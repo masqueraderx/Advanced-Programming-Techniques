@@ -1,3 +1,4 @@
+# Lab1
 In this Lab, we have to handle three problems. Note that this Lab is just an introduction to C++ Programming. 
   1. Summation of Primes
   There are many solutions, and I just chose simple one, that is to check whether there's a divisor before N when checking N. It's content in IsPrime.
