@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/gexueren/Desktop/6122/HW/Lab2/MyGrid.h
+vector
+-
+string
+-
+fstream
+-
+
+/Users/gexueren/Desktop/6122/HW/Lab2/main.cpp
+fstream
+-
+iostream
+-
+vector
+-
+MyGrid.h
+/Users/gexueren/Desktop/6122/HW/Lab2/MyGrid.h
+
