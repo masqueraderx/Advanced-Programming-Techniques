@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/gexueren/Desktop/6122/HW/Lab3/Problem1/Lab3Prob1.cpp
+iostream
+-
+fstream
+-
+mutex
+-
+thread
+-
+Sudoku.h
+/Users/gexueren/Desktop/6122/HW/Lab3/Problem1/Sudoku.h
+
+/Users/gexueren/Desktop/6122/HW/Lab3/Problem1/Sudoku.cpp
+Sudoku.h
+/Users/gexueren/Desktop/6122/HW/Lab3/Problem1/Sudoku.h
+
+/Users/gexueren/Desktop/6122/HW/Lab3/Problem1/Sudoku.h
+string
+-
+vector
+-
+fstream
+-
+iostream
+-
+

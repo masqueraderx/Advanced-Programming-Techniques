@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/gexueren/Desktop/6122/HW/Lab3/Problem2/Lab3Prob2.cpp
+iostream
+-
+random
+-
+omp.h
+-
+cstring
+-
+fstream
+-
+thread
+-
+

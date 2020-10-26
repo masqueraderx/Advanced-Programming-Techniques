@@ -1,0 +1,1 @@
+/usr/local/bin/g++  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/Problem1.dir/Lab3Prob1.cpp.o CMakeFiles/Problem1.dir/Sudoku.cpp.o  -o Problem1 
