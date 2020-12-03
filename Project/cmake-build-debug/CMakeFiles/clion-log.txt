@@ -1,0 +1,5 @@
+/Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_C_COMPILER=/usr/local/bin/gcc-9 -DCMAKE_CXX_COMPILER=/usr/local/bin/g++ -G "CodeBlocks - Unix Makefiles" /Users/gexueren/Desktop/6122/HW/Project
+OPENMP FOUND
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /Users/gexueren/Desktop/6122/HW/Project/cmake-build-debug

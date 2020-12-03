@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/gexueren/Desktop/6122/HW/Project/ghost.cpp
+ghost.h
+/Users/gexueren/Desktop/6122/HW/Project/ghost.h
+GLUT/glut.h
+-
+thread
+-
+
+/Users/gexueren/Desktop/6122/HW/Project/ghost.h
+iostream
+-
+GLUT/glut.h
+-
+stdio.h
+-
+math.h
+-
+stdlib.h
+-
+random
+-
+queue
+-
+thread
+-
+ctime
+-
+
